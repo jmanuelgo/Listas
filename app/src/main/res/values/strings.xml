@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotasListView</string>
+    <array name="carrera">
+        <item>Contaduria</item>
+        <item>Mercadotecnia</item>
+        <item>Secretariado</item>
+        <item>Sistemas</item>
+    </array>
+</resources>
